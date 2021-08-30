@@ -5,7 +5,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Studying Computer Science soon.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
