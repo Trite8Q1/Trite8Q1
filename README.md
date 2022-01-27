@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2>I'm Nico.</h2>
+<!--<h2>I'm Nico.</h2> -->
 
 <h3> 💻 &nbsp;About Me </h3>
 
