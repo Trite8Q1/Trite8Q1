@@ -34,17 +34,14 @@
   ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
   ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trite8q1&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trite8q1&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
-<!-- <a href="http://nicomarksman.com"><img src="https://img.shields.io/badge/-nicomarksman.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="http://nicomarksman.com"><img src="https://img.shields.io/badge/-nicomarksman.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nico-sch%C3%BCtze-23279a207/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
