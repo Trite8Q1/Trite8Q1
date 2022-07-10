@@ -42,9 +42,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=trite8q1&count_private=true&theme=tokyonight&showicons=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trite8q1&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 </a>
-</p>
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<p align="center">
-<!--<a href="http://nicomarksman.com"><img src="https://img.shields.io/badge/-nicomarksman.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>-->
-<a href="https://www.linkedin.com/in/nico-sch%C3%BCtze-23279a207/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
