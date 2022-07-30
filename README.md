@@ -39,7 +39,7 @@
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 <p>
 <a href="https://github.com/Trite8Q1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=trite8q1&count_private=true&theme=tokyonight&showicons=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trite8q1&theme=tokyonight&layout=compact&exclude_lang=java+r" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=NicoMarksman&count_private=true&theme=tokyonight&showicons=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NicoMarksman&theme=tokyonight&layout=compact&exclude_lang=java+r" />
 </a>
 
